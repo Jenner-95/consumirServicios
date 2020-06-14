@@ -4,9 +4,9 @@
     {"id": 2, "name":"Benito Rios", "username": "Benito", "email": "benito@gmail.com", "image": "https://yt3.ggpht.com/a/AGF-l7_wJjPAso70dWFewXRgeFLlC75VaUlG1O3ouQ=s900-c-k-c0xffffffff-no-rj-mo"
   ],
   "posts": [
-    { "id": 1, "body": "Porque adoptar animales?", "body": "Pienso que es importante adoptar porque...", "userId": 1 },
-    { "id": 2, "body": "Porque el coronavirus", "body": "Pienso que es importante adoptar porque...", "userId": 1 },
-    { "id": 2, "body": "Porque adoptar buenos habitos?", "body": "Pienso que es importante adoptar porque...", "userId": 2 },
+    { "id": 1, "title": "Porque adoptar animales?", "body": "Pienso que es importante adoptar porque...", "userId": 1 },
+    { "id": 2, "title": "Porque el coronavirus", "body": "Pienso que es importante adoptar porque...", "userId": 1 },
+    { "id": 2, "title": "Porque adoptar buenos habitos?", "body": "Pienso que es importante adoptar porque...", "userId": 2 },
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
